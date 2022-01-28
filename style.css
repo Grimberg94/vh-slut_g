@@ -4,6 +4,7 @@ body {
 }
 
 h1 {
+  text-align: center;
    font-family: Arial;
    font-size: 3em;
 }
@@ -15,4 +16,8 @@ p {
 
 a {
    color: rgb(12, 11, 1);
+}
+nav {
+ display: flex; 
+ justify-content: space-around;   
 }
