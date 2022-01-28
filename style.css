@@ -1,6 +1,6 @@
 body {
-  background: #44AA44;
-  background-color: #44AA44;
+  background: #7689da;
+  background-color: #7689da;
 }
 
 h1 {
@@ -9,10 +9,10 @@ h1 {
 }
 
 p {
-   font-family Times New Roman;
+   font-family: Times New Roman;
    font-size: 1.5em;
 }
 
 a {
-   color: white;
+   color: rgb(12, 11, 1);
 }
